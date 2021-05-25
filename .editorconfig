@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0027: Use block body for accessors
+csharp_style_expression_bodied_accessors = false
+
+# IDE0021: Use block body for constructors
+csharp_style_expression_bodied_constructors = false

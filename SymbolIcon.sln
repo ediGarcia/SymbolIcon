@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolIcon", "SymbolIcon\SymbolIcon.csproj", "{E919ED0F-D6E1-479C-B9BD-4AEB5C4B8753}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DD8519F-E643-48ED-8914-06D533AE7C94}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolTest", "SymbolTest\SymbolTest.csproj", "{80A2469F-97F8-4901-8951-F23EDDBCDBD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E919ED0F-D6E1-479C-B9BD-4AEB5C4B8753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E919ED0F-D6E1-479C-B9BD-4AEB5C4B8753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E919ED0F-D6E1-479C-B9BD-4AEB5C4B8753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E919ED0F-D6E1-479C-B9BD-4AEB5C4B8753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A2469F-97F8-4901-8951-F23EDDBCDBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A2469F-97F8-4901-8951-F23EDDBCDBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A2469F-97F8-4901-8951-F23EDDBCDBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A2469F-97F8-4901-8951-F23EDDBCDBD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC693B1-886D-4AF2-9ADC-F3AAA0BEE3E8}
+	EndGlobalSection
+EndGlobal
